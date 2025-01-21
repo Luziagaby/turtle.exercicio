@@ -1,0 +1,17 @@
+import turtle
+
+lu = turtle.Turtle()
+lu.shape("turtle")
+lu.pensize(2)
+lu.forward(100)
+lu.left(60)
+lu.forward(100)
+lu.left(60)
+lu.forward(100)
+lu.left(60)
+lu.forward(100)
+lu.left(60)
+lu.forward(100)
+lu.left(60)
+lu.forward(100)
+turtle.exitonclick()
